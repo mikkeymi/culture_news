@@ -1,3 +1,2 @@
-# mikkeymi.github.io
-Website about culture
-
+# https://mikkeymi.github.io/culture_news/
+Макет сайта с новостями
